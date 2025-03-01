@@ -34,3 +34,4 @@ Once the key issue was fixed, I ran the following command to upgrade the system:
 sudo apt upgrade
 
 ## The update process was completed successfully without further issues! 🎉
+![UpdateCompleted](UpgradeCompleted.png)
