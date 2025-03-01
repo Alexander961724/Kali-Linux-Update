@@ -12,7 +12,7 @@ But I got an error I was ignoring.
 ![Error Showing](ErrorListed.png)
 
 ## I even tried to edit the /dev/etc
-![Etc file]
+![Etc file](TrygingEditetc.png)
 
 ## 🛠️ Step 2: Identifying and Fixing the Error
 I started by attempting to update my system with the following command:
