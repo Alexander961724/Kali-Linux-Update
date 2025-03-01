@@ -35,3 +35,6 @@ sudo apt upgrade
 
 ## The update process was completed successfully without further issues! 🎉
 ![UpdateCompleted](UpgradeCompleted.png)
+
+## 🎯 Conclusion
+It’s essential to keep your Kali Linux system updated for security and stability. In my case, I initially missed the expired GPG key error, but after realizing the issue and updating the key, the system update went smoothly. Always pay attention to error messages during the update process to avoid complications. 🛡️
